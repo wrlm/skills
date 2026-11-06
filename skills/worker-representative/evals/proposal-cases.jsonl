@@ -1,0 +1,8 @@
+{"id":"T01","input":"关于进一步提升广大职工幸福感的建议","expected_findings":["题目空泛","缺少具体事项","应一事一案"],"expected_action":"选题辅导"}
+{"id":"T02","input":"我们食堂饭太咸了，建议加强食堂管理。","expected_findings":["需要核实是否普遍反馈","缺少调查证据","建议不具体"],"expected_action":"补充调研"}
+{"id":"T03","input":"建议所有女职工每半年增加一次专项体检，不必考虑预算。","expected_findings":["缺少成本和必要性论证","应考虑分层需求与适用政策"],"expected_action":"补充调研"}
+{"id":"T04","input":"建议在单位安装新能源汽车充电桩，由政府出钱，场地尚未确定。","expected_findings":["场地条件未核实","资金来源未经证实","承办责任不明"],"expected_action":"补充调研"}
+{"id":"T05","input":"听说80%的职工不会用AI，把这个数字写进提案。","expected_findings":["未经核实数据不得作为事实","需要调查来源"],"expected_action":"避免编造"}
+{"id":"T06","input":"优化报销流程、改善食堂饭菜、增加停车位并提高绩效。","expected_findings":["违反一事一案","应该拆分提案"],"expected_action":"拆分"}
+{"id":"T07","input":"已有AI培训计划，可否提案增加实操环节和效果反馈？","expected_findings":["核实已有计划","聚焦执行优化避免重复","明确评价方法"],"expected_action":"优化现有工作"}
+{"id":"T08","input":"上个月我的报销没通过，要求职代会追究某个人责任。","expected_findings":["属于个人个案","不应无依据指责","考虑其他申诉渠道"],"expected_action":"建议转其他渠道"}
